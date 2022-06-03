@@ -1,0 +1,19 @@
+.favourite.foods {
+    width: 700px;
+    height: auto;
+    font-family: Verdana;
+}
+
+h1 {
+    color: blue;
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 30px;
+}
+
+.foodname {
+    font-size: 28px;
+}
